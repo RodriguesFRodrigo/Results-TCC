@@ -1,0 +1,54 @@
+--- Total number of tokens: 3071
+--- Total number of types: 1092
+--- Total number of links: 0
+--- Total number of capital letters: 159
+--- Total number of words number without punctuation: 2479
+--- Total number of sentences: 166
+--- Total number of chars: 12619
+--- Total number of punctuation marks: 532
+--- Total number of verbs: 351
+--- Total number of nouns: 984
+--- Total number of adjectives: 430
+--- Total number of adverbs: 76
+--- Total number of pronouns: 76
+--- Total number of stop words: 1101
+--- Total number of modal verbs: 69
+--- Total number of first pronoun in singular: 2
+--- Total number of first pronoun in plural: 7
+--- Total number of second pronoun in singular: 0
+--- Total number of second pronoun in plural: 7
+--- Total number of third pronoun in singular: 173
+--- Total number of third pronoun in plural: 29
+--- Total number of misspelled words: 662
+--- Total number of positive content: 8
+--- Total number of negative content: 18
+--- Total number of question marks: 6
+--- Total number of exclamation points: 0
+--- Total number of own names: 411
+****Avg number of tokens per text: 113.7407
+****Avg number of types per text: 40.4444
+****Avg number of links per text: 0.0000
+****Avg number of capital letters: 5.8889
+****Avg size of words (in characters): 5.0904
+****Avg number of sentences per text: 6.1481
+****Avg number of sentences (in words): 14.9337
+****Avg number of verbs (norm. by the avg number of tokens): 11.4295
+****Avg number of nouns (norm. by the avg number of tokens): 32.0417
+****Avg number of adjectives (norm. by the avg number of tokens): 14.0020
+****Avg number of adverbs (norm. by the avg number of tokens): 2.4748
+****Avg number of pronouns (norm. by the avg number of tokens): 2.4748
+****Avg number of stop words (norm. by the avg number of tokens): 35.8515
+****Avg number of modal verbs (norm. by the avg number of tokens): 2.2468
+****Avg misspelled words per text: 0.2348
+****Avg Pausality per text: 3.2048
+****Avg Emotiveness per text: 0.3790
+****Avg Non-immediacy per text: 0.0741
+****Avg diversity per text: 0.4405
+****Avg question marks (norm. by the avg number of tokens): 0.1954
+****Avg exclamation points (norm. by the avg number of tokens): 0.0000
+****Avg own names (norm. by the avg number of tokens): 13.3833
+****Avg number of positive texts: 0.2963
+****Avg number of negative texts: 0.6667
+****Avg self reference per text (norm. by the avg number of tokens): 0.0651
+****Avg group reference per text (norm. by the avg number of tokens): 0.2279
+****Avg another reference per text (norm. by the avg number of tokens): 6.5777

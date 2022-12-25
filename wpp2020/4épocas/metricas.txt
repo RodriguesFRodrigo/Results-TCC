@@ -1,0 +1,27 @@
+misinformation
+0    1985 (notícias verdadeiras)
+1     913 (notícias falsas)
+ 
+2 épocas
+
+acc: 0.8720
+f1: 0.7922
+precision: 0.8072
+recall: 0.7788
+balanced_acc: 0.8466
+
+3 épocas
+
+acc: 0.8778
+f1: 0.8011
+precision: 0.8183
+recall: 0.7853
+balanced_acc: 0.8526
+
+* 4 épocas *
+
+acc: 0.8765
+f1: 0.8048
+precision: 0.7985
+recall: 0.8120
+balanced_acc: 0.8588
